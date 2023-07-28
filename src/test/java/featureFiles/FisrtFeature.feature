@@ -8,4 +8,4 @@ Feature: Validating heroku api
     
     Examples:
     | username | password | request method | resource |
-    | admin | password123 | post | auth |
+    | admin | password123 | post | auth1 |
